@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ryanair ROBLOX</title>
+    <title>Skyluxe ROBLOX</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,7 +55,7 @@
 </head>
 <body>
     <header>
-        <h1>Ryanair ROBLOX</h1>
+        <h1>Skyluxe ROBLOX</h1>
     </header>
     <nav>
         <ul>
@@ -68,8 +68,8 @@
     </nav>
     <div class="container">
         <section id="home">
-            <h2>Welcome to Ryanair ROBLOX</h2>
-            <p>Plan your flight with Ryanair ROBLOX, purchase travel extras, and get travel inspiration.</p>
+            <h2>Welcome to Skyluxe ROBLOX</h2>
+            <p>Plan your flight with Skyluxe ROBLOX, purchase travel extras, and get travel inspiration.</p>
         </section>
         <section id="plan">
             <h2>Plan Your Trip</h2>
@@ -89,7 +89,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Ryanair ROBLOX. All rights reserved.</p>
+        <p>&copy; 2025 Skyluxe ROBLOX. All rights reserved.</p>
     </footer>
 </body>
 </html>
